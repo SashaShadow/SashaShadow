@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 ## Habilidades
 
 | Lenguajes | Frontend    | Backend     | Databases | Others | 
-| JavaScript | ----------- | ----------- | ----------- |----------- |
-| Python | React.js     | Node.js    | Firebase Firestore | Postman  |
-| | HTML        | Express.js  | MySQL | MVC (Pug, EJS, Handlebars |
+| ----------- | ----------- | ----------- | ----------- |----------- |
+| JavaScript | React.js     | Node.js    | Firebase Firestore | Postman  |
+| Python | HTML        | Express.js  | MySQL | MVC (Pug, EJS, Handlebars |
 | | CSS         | Django      | MariaDB | Heroku |
 | | Bootstrap |  Django REST Framework  | PostgreSQL | Vercel |
 | |             |             | MongoDB | Glitch |
