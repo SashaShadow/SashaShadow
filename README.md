@@ -26,4 +26,4 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaShadow&layout=compact&bg_color=3e2266&text_color=74d87e )](https://github.com/SashaShadow/github-readme-stats)
 
 ## Contacto
-Me encontrarás en LinkedIn como Sasha Rodriguez Carlomagno. Pod
+Me encontrarás en LinkedIn como Sasha Rodriguez Carlomagno. Podés enviarme un correo electrónico a caballerosasha@hotmail.com tambien si deseas comunicarte conmigo.
