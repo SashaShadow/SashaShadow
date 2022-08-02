@@ -11,5 +11,11 @@ SashaShadow/SashaShadow is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+# Soy Sasha Rodriguez Carlomagno
+## Desarrollador FullStack
+
+- Actualmente me encuentro trabajando como desarrollador fullstack freelance.
+- Musicoterapeuta de profesion y trabajador en salud mental, decidiendo avanzar hacia el mundo IT hace mas de un año y medio. Soy una persona analítica, lógica, intensa al momento de resolver problemas, buscando múltiples soluciones y alternativas. Por la experiencia en mi campo de base aprendí a escuchar y ponerme de acuerdo con otras personas, por lo que me considero compañero al momento de compartir tareas. 
+- Por fuera de lo laboral soy músico, tengo una banda donde ocupo los roles de bajistas, co-compositor y realizador de segundas voces.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaShadow&layout=compact&bg_color=3e2266&text_color=74d87e )](https://github.com/SashaShadow/github-readme-stats)
