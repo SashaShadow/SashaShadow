@@ -20,13 +20,12 @@ You can click the Preview link to take a look at your changes.
 
 ## Habilidades
 
-| Frontend    | Backend     | Databases | Others | 
-| ----------- | ----------- | ----------- |----------- |
-| React.js     | Node.js    | Firebase Firestore | Postman  |
-| HTML        | Express.js  | MySQL | MVC (Pug, EJS, Handlebars |
-| CSS         | Django      | MariaDB | Heroku |
-| Bootstrap |  Django REST Framework  | PostgreSQL | Vercel |
-|             |             | MongoDB | Glitch |
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+| Lenguajes | Frontend    | Backend     | Databases | Others | 
+| JavaScript | ----------- | ----------- | ----------- |----------- |
+| Python | React.js     | Node.js    | Firebase Firestore | Postman  |
+| | HTML        | Express.js  | MySQL | MVC (Pug, EJS, Handlebars |
+| | CSS         | Django      | MariaDB | Heroku |
+| | Bootstrap |  Django REST Framework  | PostgreSQL | Vercel |
+| |             |             | MongoDB | Glitch |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaShadow&layout=compact&bg_color=3e2266&text_color=74d87e )](https://github.com/SashaShadow/github-readme-stats)
